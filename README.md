@@ -18,12 +18,12 @@
   
 ## 1. About Me 
 
-👩 I am a passionate QA professional who takes pride in ensuring quality and success in every project I undertake. With a keen eye for detail, I excel at identifying and resolving issues effectively. I love making things happen with precision and excellence, always striving to deliver exceptional results. My dedication to quality assurance is driven by a genuine commitment to making sure everything works perfectly.
+👩 I am a passionate QA professional who takes pride in ensuring quality and success in every project I undertake. With a keen eye for detail, I excel at identifying and resolving issues effectively. I love making things happen precisely and excellently, always striving to deliver exceptional results. My dedication to quality assurance is driven by a genuine commitment to ensuring everything works perfectly.
 ## 2. Selenium Project
 
 Description: 
 
-This project involves automating the shopping cart process on an e-commerce website using Selenium WebDriver. The goal is to ensure that the shopping cart functionality works as expected under various scenarios.
+This project involves automating the shopping cart process on an e-commerce website using Selenium WebDriver. The goal is to ensure the shopping cart functionality works as expected under various scenarios.
 
 website url: https://www.saucedemo.com/
 
