@@ -71,4 +71,5 @@ Under construction
 ## 6. Contact Information
 
 💻 LinkedIn: https://www.linkedin.com/in/andreinasoto/
+
 📧 andreinasoto77@gmail.com
