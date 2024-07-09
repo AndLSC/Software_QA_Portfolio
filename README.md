@@ -60,6 +60,37 @@ Code and Documentation:
 You can find the complete code and detailed documentation, including test cases, report, videos, and screenshots for this project, in the following GitHub repository:
 https://github.com/AndLSC/My_Python_Project.git 
 
+## Test Cases
+
+### Test Case: Login
+
+| Step | Action                       | Expected Result                                                                 |
+|------|------------------------------|---------------------------------------------------------------------------------|
+| 1    | Open login page              | Login page is displayed                                                         |
+| 2    | Enter username and password  | Username and password are entered                                               |
+| 3    | Click login button           | User is redirected to the inventory page                                        |
+| 4    | Validate URL                 | URL is "https://www.saucedemo.com/inventory.html"                               |
+
+### Test Case: Add Item to Cart
+
+| Step | Action                        | Expected Result                                                                 |
+|------|-------------------------------|---------------------------------------------------------------------------------|
+| 1    | Open inventory page           | Inventory page is displayed                                                     |
+| 2    | Add random items to cart      | Selected items are added to the cart                                            |
+| 3    | Open cart page                | Cart page displays the added items                                              |
+| 4    | Validate cart items           | Cart contains the correct number and type of items                              |
+
+### Test Case: Checkout Process
+
+| Step | Action                           | Expected Result                                                                 |
+|------|----------------------------------|---------------------------------------------------------------------------------|
+| 1    | Open cart page                   | Cart page is displayed                                                          |
+| 2    | Click checkout                   | Checkout page is displayed                                                      |
+| 3    | Enter checkout information       | Information is entered                                                          |
+| 4    | Click finish                     | Order completion page is displayed                                              |
+| 5    | Validate completion message      | Message "Thank you for your order!" is displayed                                |
+
+
 
 
 
