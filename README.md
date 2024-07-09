@@ -16,14 +16,14 @@
 
     
   
-## 1. About Me 
+## About Me 
 
 👩 I am a passionate QA professional who takes pride in ensuring quality and success in every project I undertake. With a keen eye for detail, I excel at identifying and resolving issues effectively. I love making things happen precisely and excellently, always striving to deliver exceptional results. My dedication to quality assurance is driven by a genuine commitment to ensuring everything works perfectly.
 
 My Software Testing Skills:
 
 Jira/Xray | Trello | Python | SQL | Postman | Selenium Webdriver| Pytest |
-## 2. Selenium Project
+## Selenium Project
 
 Description: 
 
@@ -63,16 +63,16 @@ https://github.com/AndLSC/My_Python_Project.git
 
 
 
-## 3. Manual Testing Techniques
+## Manual Testing Techniques
 
 under construction
-## 4. Bugs Documentation
+## Bugs Documentation
 
 Under construction
-## 5. Learning Journey
+## Learning Journey
 
 Under construction
-## 6. Contact Information
+## Contact Information
 
 💻 LinkedIn: https://www.linkedin.com/in/andreinasoto/
 
