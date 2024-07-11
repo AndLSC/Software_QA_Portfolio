@@ -8,10 +8,15 @@
 ## Table of Contents
 
 -[About Me](#about-me) 
+
 -[Selenium Project](#selenium-project)
+
 -[Manual Testing Techniques](#manual-testing-techniques)
+
 -[Bug Documentation](#bug-documentation)
+
 -[Learning Journey](#learning-journey)
+
 -[Contact Information](#contact-information)
 
     
