@@ -7,17 +7,17 @@
 
 ## Table of Contents
 
--[About Me](#about-me) 
+- [About Me](#about-me) 
 
--[Selenium Project](#selenium-project)
+- [Selenium Project](#selenium-project)
 
--[Manual Testing Techniques](#manual-testing-techniques)
+- [Manual Testing Techniques](#manual-testing-techniques)
 
--[Bug Documentation](#bug-documentation)
+- [Bug Documentation](#bug-documentation)
 
--[Learning Journey](#learning-journey)
+- [Learning Journey](#learning-journey)
 
--[Contact Information](#contact-information)
+- [Contact Information](#contact-information)
 
     
   
