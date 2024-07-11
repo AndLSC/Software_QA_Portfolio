@@ -49,12 +49,6 @@ Tools:
 - Browser: Chrome and Firefox
 - Testing Framework: pytest
 
-Other Requirements: 
-- pytest==8.0.0
-- Selenium==4.21.0
-- Webdriver-manager==4.0.1
-- pytest-html==4.1.1
-
 Challenges Faced:
 
 - Handling dynamic web elements.
