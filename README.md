@@ -1,18 +1,18 @@
 
 # Welcome to my Portfolio!
 
-🔨 This portfolio is currently under construction. Here, I will be sharing new insights and reinforcing what I've learned. My goal is to showcase automation projects using Selenium, demonstrate techniques for manual testing, provide thorough bugs documentation, and outline what's next on my learning journey. Stay tuned for updates!
+🔨 This portfolio is currently under construction. Here, I will be sharing new insights and reinforcing what I've learned. My goal is to showcase automation projects using Selenium, demonstrate techniques for manual testing, provide thorough bug documentation, and outline what's next on my learning journey. Stay tuned for updates!
 
 
 
 ## Table of Contents
 
-    1. About Me 
-    2. Selenium Project 
-    3. Manual Testing Techniques 
-    4. Bugs Documentation
-    5. Learning Journey
-    6. Contact Information
+-[About Me](#about-me) 
+-[Selenium Project](#selenium-project)
+-[Manual Testing Techniques](#manual-testing-techniques)
+-[Bug Documentation](#bug-documentation)
+-[Learning Journey](#learning-journey)
+-[Contact Information](#contact-information)
 
     
   
