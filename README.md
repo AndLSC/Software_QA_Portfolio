@@ -70,7 +70,10 @@ under construction
 Under construction
 ## Learning Journey
 
-Under construction
+Working on it: 
+- ISTQB Foundation Level Examen preparation
+- API Test Automation
+  
 ## Contact Information
 
 
