@@ -73,6 +73,7 @@ Under construction
 ## Learning Journey
 
 Working on it: 
+- Cypress
 - ISTQB Foundation Level Examen preparation
 - API Test Automation
   
