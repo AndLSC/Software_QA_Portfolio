@@ -1,8 +1,7 @@
 
 # Welcome to my Portfolio!
 
-🔨 This portfolio is currently under construction. Here, I will be sharing new insights and reinforcing what I've learned. My goal is to showcase automation projects using Selenium, demonstrate techniques for manual testing, provide thorough bug documentation, and outline what's next on my learning journey. Stay tuned for updates!
-
+🔨 This portfolio will be continuously under construction. It is a space to share my knowledge, add small practice projects and examples, and share my next learning steps. Stay tuned for updates!
 
 
 ## Table of Contents
@@ -23,11 +22,14 @@
   
 ## About Me 
 
-👩 I am a passionate QA professional who takes pride in ensuring quality and success in every project I undertake. With a keen eye for detail, I excel at identifying and resolving issues effectively. I love making things happen precisely and excellently, always striving to deliver exceptional results. My dedication to quality assurance is driven by a genuine commitment to ensuring everything works perfectly.
+👩 I am a passionate QA professional who makes sure every project is successful and of high quality. With a keen eye for detail, I excel at identifying and resolving issues effectively. I love making things happen precisely and excellently, always aim to deliver exceptional results. My dedication to quality assurance is driven by a genuine commitment to ensuring everything works perfectly.
 
 My Software Testing Skills:
 
 Jira/Xray | Trello | Python | SQL | Postman | Selenium Webdriver| Pytest |
+
+
+
 ## Selenium Project
 
 Description: 
@@ -51,13 +53,13 @@ Tools:
 
 Challenges Faced:
 
-- Handling dynamic web elements.
+- Handling Xpath for similar web elements.
 - Managing timeouts and synchronization issues.
 
 Code and Documentation:
 
 You can find the complete code and detailed documentation, including some test cases, report, video, and screenshots for this project, in the following GitHub repository:
-https://github.com/AndLSC/Automated_Shopping_Cart.git
+ [Automated Shopping Cart](https://github.com/AndLSC/Automated_Shopping_Cart.git)
 
 
 
