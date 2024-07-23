@@ -1,5 +1,5 @@
 
-# Welcome to my Portfolio!
+# :computer: Welcome to my Portfolio!
 
 🔨 This portfolio will be continuously under construction. It is a space to share my knowledge, add small practice projects and examples, and share my next learning steps. Stay tuned for updates!
 
