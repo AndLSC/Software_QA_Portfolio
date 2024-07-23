@@ -67,18 +67,48 @@ You can find the complete code and detailed documentation, including some test c
 
 ### Test Case Template
 
-# Test Plan
-
-## Test Case Template
-
-# Test Plan
-
-## Test Case Template
-
 | **Test_ID**         | **Functionality**   | **Test_Detail**   | **Test_Type**   | **Severity**   | **Preconditions**   | **Test_Data**   | **Steps**   | **Expected Result**   | **Obtained Result**   | **Test Status**   | **Test Evidence**   |
 |---------------------|---------------------|-------------------|-----------------|----------------|---------------------|-----------------|-------------|-----------------------|-----------------------|-------------------|---------------------|
 | Unique identifier   | Functionality being tested   | Detailed description of the test case   | Type of test (Unit, Integration, e2e, etc.)   | Criticality of the test case (Critical, Major, Minor, etc.)   | Necessary conditions before running the test   | Data needed for the test   | Steps to execute the test   | Expected outcome after executing the test   | Actual outcome after executing the test   | Status of the test (Pass/Fail)   | Evidence supporting the test result   |
 
+# Test Plan
+
+## Test Case Template
+
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: #f2f2f2;">Test_ID</th>
+      <th style="background-color: #f2f2f2;">Functionality</th>
+      <th style="background-color: #f2f2f2;">Test_Detail</th>
+      <th style="background-color: #f2f2f2;">Test_Type</th>
+      <th style="background-color: #f2f2f2;">Severity</th>
+      <th style="background-color: #f2f2f2;">Preconditions</th>
+      <th style="background-color: #f2f2f2;">Test_Data</th>
+      <th style="background-color: #f2f2f2;">Steps</th>
+      <th style="background-color: #f2f2f2;">Expected Result</th>
+      <th style="background-color: #f2f2f2;">Obtained Result</th>
+      <th style="background-color: #f2f2f2;">Test Status</th>
+      <th style="background-color: #f2f2f2;">Test Evidence</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Unique identifier</td>
+      <td>Functionality being tested</td>
+      <td>Detailed description of the test case</td>
+      <td>Type of test (Unit, Integration, e2e, etc.)</td>
+      <td>Criticality of the test case (Critical, Major, Minor, etc.)</td>
+      <td>Necessary conditions before running the test</td>
+      <td>Data needed for the test</td>
+      <td>Steps to execute the test</td>
+      <td>Expected outcome after executing the test</td>
+      <td>Actual outcome after executing the test</td>
+      <td>Status of the test (Pass/Fail)</td>
+      <td>Evidence supporting the test result</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
