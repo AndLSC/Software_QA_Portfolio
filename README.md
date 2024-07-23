@@ -81,4 +81,4 @@ Working on it:
 
 💻 [LinkedIn](https://www.linkedin.com/in/andreinasoto/)
 
-📧 andreinasoto77@gmail.com
+📧 [Email](#andreinasoto77@gmail.com)
