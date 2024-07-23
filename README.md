@@ -10,7 +10,7 @@
 
 - [Selenium Project](#selenium-project)
 
-- [Manual Testing Example](#manual-testing-techniques)
+- [Manual Testing Example](#manual-testing-example)
 
 - [Bug Documentation](#bug-documentation)
 
