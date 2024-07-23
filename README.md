@@ -74,18 +74,18 @@ You can find the complete code and detailed documentation, including some test c
 <table>
   <thead>
     <tr>
-      <th style="background-color: #f2f2f2;">Test_ID</th>
-      <th style="background-color: #f2f2f2;">Functionality</th>
-      <th style="background-color: #f2f2f2;">Test_Detail</th>
-      <th style="background-color: #f2f2f2;">Test_Type</th>
-      <th style="background-color: #f2f2f2;">Severity</th>
-      <th style="background-color: #f2f2f2;">Preconditions</th>
-      <th style="background-color: #f2f2f2;">Test_Data</th>
-      <th style="background-color: #f2f2f2;">Steps</th>
-      <th style="background-color: #f2f2f2;">Expected Result</th>
-      <th style="background-color: #f2f2f2;">Obtained Result</th>
-      <th style="background-color: #f2f2f2;">Test Status</th>
-      <th style="background-color: #f2f2f2;">Test Evidence</th>
+      <th style="background-color: ##87CEEB;">Test_ID</th>
+      <th style="background-color: ##87CEEB;">Functionality</th>
+      <th style="background-color: ##87CEEB;">Test_Detail</th>
+      <th style="background-color: ##87CEEB;">Test_Type</th>
+      <th style="background-color: ##87CEEB;">Severity</th>
+      <th style="background-color: ##87CEEB;">Preconditions</th>
+      <th style="background-color: ##87CEEB;">Test_Data</th>
+      <th style="background-color: ##87CEEB;">Steps</th>
+      <th style="background-color: ##87CEEB;">Expected Result</th>
+      <th style="background-color: ##87CEEB;">Obtained Result</th>
+      <th style="background-color: ##87CEEB;">Test Status</th>
+      <th style="background-color: ##87CEEB;">Test Evidence</th>
     </tr>
   </thead>
   <tbody>
