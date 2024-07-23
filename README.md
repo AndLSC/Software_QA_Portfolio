@@ -24,7 +24,7 @@
 
 👩 I am a passionate QA professional who makes sure every project is successful and of high quality. With a keen eye for detail, I excel at identifying and resolving issues effectively. I love making things happen precisely and excellently, always aim to deliver exceptional results. My dedication to quality assurance is driven by a genuine commitment to ensuring everything works perfectly.
 
-My Software Testing Skills:
+:books: My Software Testing Skills:
 
 Jira/Xray | Trello | Python | SQL | Postman | Selenium Webdriver | Pytest |
 
