@@ -65,7 +65,14 @@ You can find the complete code and detailed documentation, including some test c
 
 ## Manual Testing Techniques
 
-under construction
+### Test Case Template
+
+| **Test_ID**         | **Functionality**   | **Test_Detail**   | **Test_Type**   | **Severity**   | **Preconditions**   | **Test_Data**   | **Steps**   | **Expected Result**   | **Obtained Result**   | **Test Status**   | **Test Evidence**   |
+|---------------------|---------------------|-------------------|-----------------|----------------|---------------------|-----------------|-------------|-----------------------|-----------------------|-------------------|---------------------|
+| Unique identifier   | Functionality being tested   | Detailed description of the test case   | Type of test (Unit, Integration, e2e, etc.)   | Criticality of the test case (Critical, Major, Minor, etc.)   | Necessary conditions before running the test   | Data needed for the test   | Steps to execute the test   | Expected outcome after executing the test   | Actual outcome after executing the test   | Status of the test (Pass/Fail)   | Evidence supporting the test result   |
+
+
+
 ## Bugs Documentation
 
 Under construction
