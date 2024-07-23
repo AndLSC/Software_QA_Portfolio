@@ -81,4 +81,4 @@ Working on it:
 
 💻 [LinkedIn](https://www.linkedin.com/in/andreinasoto/)
 
-📧 [contact information form](https://forms.gle/M9kkbVYsDNM4Zr1V8).
+📧 [Contact Information Form](https://forms.gle/M9kkbVYsDNM4Zr1V8).
