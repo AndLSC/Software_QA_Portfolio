@@ -26,7 +26,7 @@
 
 My Software Testing Skills:
 
-Jira/Xray | Trello | Python | SQL | Postman | Selenium Webdriver| Pytest |
+Jira/Xray | Trello | Python | SQL | Postman | Selenium Webdriver | Pytest |
 
 
 
@@ -34,9 +34,7 @@ Jira/Xray | Trello | Python | SQL | Postman | Selenium Webdriver| Pytest |
 
 Description: 
 
-This project involves automating the shopping cart process on an e-commerce website using Selenium WebDriver. The goal is to ensure the shopping cart functionality works as expected under various scenarios.
-
-website url: https://www.saucedemo.com/
+This project involves automating the shopping cart process on an e-commerce [website](https://www.saucedemo.com/) using Selenium WebDriver. The goal is to ensure the shopping cart functionality works as expected under various scenarios.
 
 Key Features and Functionalities Tested:
 
@@ -46,6 +44,7 @@ Key Features and Functionalities Tested:
 - Proceeding to checkout.
 
 Tools:
+
 - IDE: PyCharm
 - Automation tool: Selenium WebDriver with Python
 - Browser: Chrome and Firefox
