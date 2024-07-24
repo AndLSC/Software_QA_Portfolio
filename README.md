@@ -24,9 +24,9 @@
 
 👩 I am a passionate QA professional who makes sure every project is successful and of high quality. With a keen eye for detail, I excel at identifying and resolving issues effectively. I love making things happen precisely and excellently, always aim to deliver exceptional results. My dedication to quality assurance is driven by a genuine commitment to ensuring everything works perfectly.
 
-:books: My Software Testing Skills:
+#### :books: My Software Testing Skills:
 
-Jira/Xray | Trello | Python | SQL | Postman | Selenium Webdriver | Pytest |
+**Jira/Xray** | **Trello** | **Python** | **SQL** | **Postman** | **Selenium Webdriver** | **Pytest** | **SoapUI** | **HTML** | **Git**
 
 
 
@@ -84,6 +84,16 @@ Following the shopping cart example, the manual test cases are listed below.
 
 
   
+## Bug Documentation
+Under construction
+
+
+
+## Learning Journey
+🔨 Working on it:<br>
+
+ **Cypress IO** | **Certification ISTQB Foundation Level**   | **API Automation**   
+
 ## Contact Information
 
 
