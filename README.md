@@ -58,7 +58,7 @@ Challenges Faced:
 Code and Documentation:
 
 You can find the complete code and detailed documentation, including some test cases, report, video, and screenshots for this project, in the following GitHub repository:
- [Automated Shopping Cart](https://github.com/AndLSC/Automated_Shopping_Cart.git)
+ **[Automated Shopping Cart](https://github.com/AndLSC/Automated_Shopping_Cart.git)**
 
 
 
